@@ -32,6 +32,8 @@ currency_convertor/
 ├── codes.js
 └── README.md
 ```
+##ss
+![Currency Converter](assets/screenshot.png)
 
 ## Getting Started
 
